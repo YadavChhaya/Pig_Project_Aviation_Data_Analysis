@@ -1,0 +1,8 @@
+iata: the international airport abbreviation code
+airport: name of the airport
+city: city in which airport is located 
+state: state in which airport is located
+country: country in which airport is located
+lat: latitude of airport
+long: longitude of airport
+
